@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Goal: one
+  date: 2016-11-28
+  time: 2016-11-28 13:08:35
+
+two:
+  Goal: two
+  date: 2016-11-28
+  time: 2016-11-28 13:08:35
